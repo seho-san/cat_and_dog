@@ -1,6 +1,11 @@
 # cat_and_dog
 cat and dog 머신러닝 모델 학습
 
+# 기본 import
+영상에 나오는거 import 안 되면 직접 인터넷 검색해서
+!pip install --
+적용하셈
+
 # dataset 다운로드
 https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai
 
