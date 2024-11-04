@@ -7,6 +7,6 @@ https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai
 # 참고 유튜브 링크
 https://www.youtube.com/watch?v=FLf5qmSOkwU&ab_channel=BalajiSrinivasan
 
-#tensorflow gpu 적용
+# tensorflow gpu 적용
 https://hengbokhan.tistory.com/75
 머신러닝 돌릴 때 따로 설정 안 하면 cpu로 돌아가서 오래 걸리고 dataset 전부 돌아가질 않음
